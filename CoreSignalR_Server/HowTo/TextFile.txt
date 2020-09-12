@@ -1,0 +1,22 @@
+﻿Step:1
+select asp.net core web app 
+step:2
+select webbrowser
+step:3
+creage a hub class for chathub
+step:4
+create a stratup class for run the app
+step:5
+create a cshtml in pages and desing it as you like
+step:6
+make a js file in wwwroot/js for chat js
+step:7
+add client side libraries write unks than @microsoft/signalr/latest than select file>brows> signalr/js and signalr.min.js from add/client-side-libraries. location:wwwroot/js/signalr
+step:8
+run the app clrt + f5;
+or follow my youtube channel :Tutorial: Get started with ASP.NET Core SignalR
+
+
+sample apps are is in here .
+https://github.com/aspnet/SignalR-samples
+i suggest you to create VoIP service so you can handle voice and video. there is library called liblinphone that supports xamarin https://wiki.linphone.org/xwiki/wiki/public/view/Lib/Getting%20started/
